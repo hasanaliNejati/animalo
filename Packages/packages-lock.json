@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.morvarid.dt": {
+      "version": "file:com.morvarid.dt",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.morvarid.essential": {
       "version": "file:com.morvarid.essential",
       "depth": 0,
