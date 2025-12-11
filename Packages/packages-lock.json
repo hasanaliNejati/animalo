@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.morvarid.essential": {
-      "version": "file:com.morvarid.essetial",
+      "version": "file:com.morvarid.essential",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
